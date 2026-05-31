@@ -1,4 +1,3 @@
-## Hi there 👋
 ## 🇧🇷 Português
 
 **Desenvolvedor de Software | Estudante de Análise e Desenvolvimento de Sistemas**
